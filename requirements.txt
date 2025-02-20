@@ -5,7 +5,6 @@ black
 cfgv
 click
 distlib
-dotenv
 filelock
 #freeze
 identify
@@ -26,9 +25,6 @@ pytest
 PyYAML
 regex
 six
-toml
-typed-ast
-typing-extensions
 virtualenv
 wrapt
 pandas
@@ -39,5 +35,5 @@ scipy
 sqlalchemy
 psycopg2
 pg8000
-pydotenv
+python-dotenv
 requests
